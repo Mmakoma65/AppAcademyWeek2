@@ -1,0 +1,38 @@
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    color: aqua;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+h4{
+    color: aqua;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background: cornflowerblue;
+    padding-top: 20px ;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
